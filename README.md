@@ -1,3 +1,6 @@
+# About the project
+This project will show you 5 YouTube video results related to your search query.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
