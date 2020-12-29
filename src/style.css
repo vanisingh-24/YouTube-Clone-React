@@ -1,0 +1,29 @@
+.searchBar {
+    padding: 15px;
+    margin: 10px;
+  }
+  
+  .videoContainer {
+    padding: 15px;
+  }
+  
+  .iframe {
+    height: 500px;
+  }
+  
+  .channelImg {
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    border-radius: 50%;
+  }
+  
+  .stats {
+    padding: 10px 0px 10px 0px;
+    color: #606060;
+  }
+  
+  .darkBackground {
+    background-color: black;
+    color: white;
+  }
