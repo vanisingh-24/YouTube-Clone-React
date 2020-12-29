@@ -11,11 +11,29 @@
     height: 500px;
   }
   
+  .videoItem {
+    padding: 15px;
+    display: flex;
+    cursor: pointer;
+  }
+  
+  .videoImg {
+    width: 50%;
+  }
+  
   .channelImg {
     height: 100%;
     width: 100%;
     margin: 10px;
     border-radius: 50%;
+  }
+  
+  .videoItemTitle {
+    padding: 20px;
+    letter-spacing: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   
   .stats {
